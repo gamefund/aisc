@@ -1,5 +1,6 @@
-# aisc
-## edit smart contract for blockchain without programming
+# AISC
+
+> Edit smart contract for blockchain without programming
 
 - AISC（AI Smart Contract）是一个图灵完备的智能合约免编程工具，用户通过图形化的编辑方式编制合约，通过本工具智能编程为智能合约程序。通过智能算法，AISC把智能合约的编写，开创性的免去了编程，使得不具备编程技能的人也能够胜任，这又是区块链世界的一次划时代的进化，势必对区块链的发展产生重大影响。
 - 几十年以来编程语言的发展，是一个从低级语言迈向高级语言的过程，进而也将向自然语言处理（NLP）方向迈进，使编程不再是一个高门槛的人类活动。自然语言也是建筑在人类逻辑之上，本质同编程语言本没有不同，“任何一个正则表达式都可以完美映射到自然语言，尽管可能这对于程序员来说可能不够简洁”。
