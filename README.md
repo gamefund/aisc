@@ -9,3 +9,4 @@
 - AISC作为开源项目获得了NEO的大力支持。
 
 http://github.com/gamefund/aisc
+http://aisc.tech (Under construction)
